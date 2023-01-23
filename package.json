@@ -1,0 +1,18 @@
+{
+  "name": "sp-auth-test",
+  "version": "1.0.0",
+  "description": "This project is to test SharePoint app-only auth from a node.js script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gd-sprest": "^7.3.7",
+    "node-sp-auth": "^3.0.7",
+    "request-promise": "^4.2.6",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
