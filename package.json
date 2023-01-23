@@ -1,7 +1,7 @@
 {
   "name": "sp-auth-test",
   "version": "1.0.0",
-  "description": "This project is to test SharePoint app-only auth from a node.js script",
+  "description": "This project is to test SharePoint Online app-only auth from a node.js script",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
