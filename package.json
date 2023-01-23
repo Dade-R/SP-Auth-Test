@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Dade Register",
+  "license": "MIT",
   "dependencies": {
     "gd-sprest": "^7.3.7",
     "node-sp-auth": "^3.0.7",
